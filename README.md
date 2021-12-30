@@ -11,3 +11,5 @@ MI5, android 7.0
 - Customizable monitoring server address
 - Persistent config storage
 - Safe telegram token storage
+- Support message filter (regex)
+- Support multiple recipients
